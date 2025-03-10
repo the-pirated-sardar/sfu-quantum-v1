@@ -522,7 +522,7 @@
                         i.a.createElement(
                           "h1",
                           { className: "motto-text" },
-                          "WE RISE BY LIFTING OTHERS"
+                          "EXPLORING QUANTUM, EXPANDING FUTURES"
                         )
                       ),
                       i.a.createElement(K.a, {
