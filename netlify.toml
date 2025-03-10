@@ -1,0 +1,15 @@
+# Netlify configuration file
+
+[build]
+  # Directory to publish
+  publish = "public"
+  # Build command, if applicable
+  # command = "npm run build"  # Uncomment and modify if you have a build step
+
+# Redirects and other settings can be added here
+
+[[redirects]]
+  from = "/old-path"
+  to = "/new-path"
+  status = 301
+  force = true
