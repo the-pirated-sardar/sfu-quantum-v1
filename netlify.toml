@@ -2,7 +2,7 @@
 
 [build]
   # Directory to publish
-  publish = "."
+  publish = "/"
   # Build command, if applicable
   # command = "npm run build"  # Uncomment and modify if you have a build step
 
