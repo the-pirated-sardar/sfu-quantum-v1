@@ -617,7 +617,7 @@
                               className: "about-social-button",
                               onClick: function () {
                                 return window.open(
-                                  "https://www.linkedin.com/in/abishek-jay-915a6421a"
+                                  "https://www.linkedin.com/company/sfu-quantum-club/"
                                 );
                               },
                               icon: W.d,
